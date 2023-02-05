@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Princess of Wales shares new baby picture of herself",
+            "description": "Catherine urges others to share photos of early memories to encourage talk about vital childhood years.",
+            "url": "http://www.bbc.co.uk/news/uk-64523493",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/214A/production/_128522580_walesbaby.jpg",
+            "publishedAt": "2023-02-04T21:07:24.381192Z",
+            "content": "The Princess of Wales has shared a new photo of herself as a baby and urged others to do the same, as part of her newly launched early years campaign.\r\nShaping Us, about the importance of early child… [+3017 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Video appears to show China balloon shot down",
+            "description": "The white balloon - which the US has confirmed bringing down - is seen falling through the sky.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64525258",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FFAC/production/_128525456_p0f13fqb.jpg",
+            "publishedAt": "2023-02-04T21:07:20.2167812Z",
+            "content": "Video appears to show China balloon shot down. Video, 00:00:23Video appears to show China balloon shot down"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China balloon: US going to take care of it, says Joe Biden",
+            "description": "The US president faces pressure to shoot down a suspected Chinese spy balloon flying across the US.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64524105",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4CCC/production/_128506691_b03b473bf844459e894e065fbe19db642b30afe30_0_1036_9971000x962.jpg",
+            "publishedAt": "2023-02-04T18:22:23.9869853Z",
+            "content": "Media caption, Watch: BBC security correspondent Gordon Corera explains the US/China row\r\nPresident Joe Biden says the US is \"going to take care of\" a suspected Chinese spy balloon that has been flyi… [+2731 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pakistan blocks Wikipedia for 'blasphemous content'",
+            "description": "The country's internet regulator says the ban will remain in place until all material is removed.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64523501",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C96/production/_128522230_gettyimages-1246358149.jpg",
+            "publishedAt": "2023-02-04T16:22:21.1235366Z",
+            "content": "Wikipedia has been blocked in Pakistan for hosting \"blasphemous content\". \r\nThe move was announced on Saturday after the free online encyclopaedia was given a 48-hour deadline to remove some material… [+1569 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Pope in South Sudan tells clergy to raise voices against injustice",
+            "description": "Pope Francis is on an unprecedented trip to the war-torn country with two other Christian leaders.",
+            "url": "http://www.bbc.co.uk/news/world-africa-64524102",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2D0C/production/_128523511_gettyimages-1462560257.jpg",
+            "publishedAt": "2023-02-04T16:07:21.9203334Z",
+            "content": "Pope Francis has told clergy in South Sudan to raise their voices against injustice, on an unprecedented trip to the war-torn country.\r\nTravelling with the heads of the churches in England and Scotla… [+2598 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Chris Parry and Andrew Bagshaw's bodies recovered in prisoner swap - Ukraine",
+            "description": "Kyiv says Chris Parry and Andrew Bagshaw's remains were handed over as part of a prisoner swap.",
+            "url": "http://www.bbc.co.uk/news/world-europe-64521865",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17A06/production/_128247769_bagshaw-parry.jpg",
+            "publishedAt": "2023-02-04T13:52:22.7007855Z",
+            "content": "The bodies of two British men killed in eastern Ukraine have been recovered as part of a prisoner swap with Russia.\r\nUkrainian President Volodymyr Zelensky's chief of staff said the bodies of Chris P… [+1349 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Japan PM fires aide over derogatory LGBT remarks",
+            "description": "Masayoshi Arai was dismissed after reportedly saying he would not want to live next to same-sex couples.",
+            "url": "http://www.bbc.co.uk/news/world-asia-64521862",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3C34/production/_128521451_gettyimages-529045526.jpg",
+            "publishedAt": "2023-02-04T13:07:19.8579504Z",
+            "content": "Japan's Prime Minister Fumio Kishida has fired a government aide who made derogatory remarks about LGBT couples.\r\nMasayoshi Arai reportedly said he would not want to live next to, or look at, people … [+1717 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Perth shark attack: Teenage girl dies in Swan River",
+            "description": "The girl was thought to have been swimming in the Swan River, Western Australia Police say.",
+            "url": "http://www.bbc.co.uk/news/world-australia-64523498",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B48E/production/_128522264_gettyimages-549526681.jpg",
+            "publishedAt": "2023-02-04T12:52:17.3573385Z",
+            "content": "A 16-year-old girl has died after being attacked by a shark while swimming in a river in Western Australia. \r\nShe was pronounced dead after being pulled from the Swan River, in the Perth suburb of Fr… [+497 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tyre Nichols: Sixth police officer fired",
+            "description": "Preston Hemphill violated multiple rules, including stun gun deployment regulations, police say.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64521857",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149BC/production/_128521448_f6a061d0ed4fe0ff497a40f088dbefef55ec388e0_0_922_2048900x2000.jpg",
+            "publishedAt": "2023-02-04T10:52:17.7400092Z",
+            "content": "A sixth police officer involved in the events leading to the arrest of Tyre Nichols has been fired, the Memphis police department has said.\r\nAn internal police investigation found officer Preston Hem… [+1976 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Historic deep freeze hits US north-east",
+            "description": "Over a dozen weather records are expected to be broken by Friday afternoon across the north-east.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-64485092",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10E1E/production/_128505196_725b346deb0ef6f2b418a0a9acc7ad77ab98741e.jpg",
+            "publishedAt": "2023-02-03T14:52:18.3440854Z",
+            "content": "More than 80 million Americans are expected to face freezing temperatures as a record-breaking deep freeze hits the north-eastern US. \r\nThe frigid blast could bring \"once-in-a-generation\" wind chills… [+2480 chars]"
+        }
+    ]
+}
